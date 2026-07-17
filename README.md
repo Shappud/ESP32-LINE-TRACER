@@ -27,40 +27,6 @@ The goal is to build a fast, reliable, and competition-ready robot capable of na
 
 ---
 
-
-## 📂 Repository Structure
-
-```
-ESP32-Line-Tracer/
-│
-├── src/
-│   ├── main.cpp
-│   ├── pid.cpp
-│   ├── motors.cpp
-│   ├── sensors.cpp
-│
-├── include/
-│
-├── docs/
-│   ├── design-notes.md
-│   ├── wiring-diagram.png
-│   ├── pcb/
-│
-├── media/
-│   ├── images/
-│   ├── videos/
-│
-├── logs/
-│   ├── day01.md
-│   ├── day02.md
-│   ├── day03.md
-│
-├── README.md
-└── LICENSE
-```
-
----
-
 ##  Control Algorithm
 
 The robot uses a PID (Proportional-Integral-Derivative) controller to minimize line tracking error.
