@@ -60,7 +60,7 @@ These values are continuously tuned throughout development.
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 - [ ] Custom PCB
 - [ ] Adjustable sensor mount
