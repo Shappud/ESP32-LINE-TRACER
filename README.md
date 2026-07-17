@@ -1,4 +1,4 @@
-# ESP32 PID Lne Tracer Robot
+# ESP32 PID Line Tracer Robot (IN DEVELOPMENT)
 
 > A high-speed autonomous line-following robot powered by an ESP32 using PID control and custom-designed hardware.
 
