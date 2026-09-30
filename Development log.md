@@ -22,4 +22,3 @@
 -Finished Wiring schematic using EasyEDA
 -Started positioning the placement of the components in the PCB
 
-## September 29
